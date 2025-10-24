@@ -1,0 +1,21 @@
+{
+  "short_name": "ورشة عبدو",
+  "name": "ورشة عبدو",
+  "description": "مساعد ذكي لإدارة ورشة عبدو للأثاث.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#fdfaf6",
+  "theme_color": "#4a3f35",
+  "icons": [
+    {
+      "src": "icons/icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icons/icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}

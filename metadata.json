@@ -1,0 +1,7 @@
+{
+  "name": "ورشة الأثاث",
+  "description": "إدارة ورشة الأثاث بذكاء",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
